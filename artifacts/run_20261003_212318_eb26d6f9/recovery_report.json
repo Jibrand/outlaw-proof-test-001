@@ -1,0 +1,9 @@
+{
+  "fault_injected": true,
+  "error_captured": "Input is not a number",
+  "state_corrupted": false,
+  "state_rolled_back": false,
+  "state_corruption_prevented": true,
+  "recovery_status": "CORRUPTION_PREVENTED_AND_RECOVERED",
+  "retry_pass": true
+}
