@@ -1,0 +1,9 @@
+{"timestamp":"2026-10-03T20:56:32.016Z","event":"REQUEST_RECEIVED","payload":{"phase":1}}
+{"timestamp":"2026-10-03T20:56:32.025Z","event":"STATE_CAPTURED","phase":"BEFORE"}
+{"timestamp":"2026-10-03T20:56:32.030Z","event":"EXECUTION_COMPLETE","result":1000}
+{"timestamp":"2026-10-03T20:56:32.034Z","event":"VALIDATION_PASSED","check":"125*8==1000"}
+{"timestamp":"2026-10-03T20:56:32.042Z","event":"PROOF_GENERATED","hash":"a95d41b1f456bca661af4fedf98861b48223400402302645ac59a0b44a9e150b"}
+{"timestamp":"2026-10-03T20:56:32.045Z","event":"REQUEST_RECEIVED","payload":{"phase":2}}
+{"timestamp":"2026-10-03T20:56:32.048Z","event":"FAULT_CAPTURED","error":"Input is not a number"}
+{"timestamp":"2026-10-03T20:56:32.051Z","event":"REQUEST_RECEIVED","payload":{"phase":3}}
+{"timestamp":"2026-10-03T20:56:32.055Z","event":"RECOVERY_COMPLETE","retryPass":true}

@@ -1,0 +1,7 @@
+{
+  "fault_injected": true,
+  "error_captured": "Input is not a number",
+  "state_corrupted": false,
+  "recovery_status": "SUCCESSFUL_ROLLBACK_AND_RETRY",
+  "retry_pass": true
+}
